@@ -1,8 +1,8 @@
-# 🧠 Word Guessing Game (Python Project)
+# 🧠 Lexi Hunt (Python Project)
 
 ## 📌 Overview
 
-This is an interactive **Word Guessing Game** built with Python, designed for an engaging user experience and efficient data handling. The project includes gameplay logging, CSV conversion, and MySQL integration for backend data management.
+This is an interactive **Lexi Hunt** built with Python, designed for an engaging user experience and efficient data handling. The project includes gameplay logging, CSV conversion, and MySQL integration for backend data management.
 
 ---
 
